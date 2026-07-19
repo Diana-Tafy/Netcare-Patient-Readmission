@@ -1,6 +1,6 @@
 # Patient Readmission & Clinical Segmentation Dashboard
 
-Dashboard:    https://nntchospitaladmission.lovable.app
+Dashboard:    https://stats-chums.lovable.app
 
 ## Project Overview
 This project focuses on analyzing hospital patient data to segment demographics, analyze lengths of stay, and evaluate clinical risk factors (Blood Pressure and Blood Sugar levels). The goal is to provide healthcare administrators with actionable insights into patient resource allocation.
